@@ -1,1 +1,2 @@
 # med-bills
+An app to receive images of medical bills, extract info, and collate medical and insurance info into a cohesive view of the status of the billing. meant o address the lack of clarity caused by receiving so many billing artifacts. 
